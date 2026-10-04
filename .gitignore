@@ -1,0 +1,38 @@
+# Build output
+*.o
+*.a
+*.so
+*.out
+
+# Executables
+sentinelos
+*.exe
+
+# Debug / temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Linux generated files
+core
+core.*
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime/generated data
+logs/

@@ -1,0 +1,1 @@
+KERNEL=="sentinel_events", MODE="0666"
